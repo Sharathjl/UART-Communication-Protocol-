@@ -27,7 +27,7 @@ Each UART frame consists of:
 ## Design Details
 ### Block Diagram:
 
-![]()
+![](https://github.com/Sharathjl/UART-Communication-Protocol-/blob/main/Block.jpg)
 
 ### 1. UART Transmitter (`uart_tx.v`)
 The transmitter is responsible for sending data serially. It consists of the following key components:
